@@ -1,0 +1,6 @@
+# Project exclude paths
+/out/
+/jdk-versions.iml
+/common/common.iml
+/server/server.iml
+/client/client.iml
